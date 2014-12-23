@@ -1,6 +1,8 @@
 WIC
 ===
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ctb-wic/wic-minutes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 About
 -----
 WIC는 소프트웨어 개발 관련 기술을 학습하는 커뮤니티입니다.
