@@ -14,11 +14,10 @@ Summary
 
 Questions
 ---------
-1. markdown vs multi markdown? [ seoilhyun ]
-
-
-2. Question 2?  
-Answer 2
+### seoilhyun
+* Markdown vs. MultiMarkdown?
+    * MultiMarkdown은 Markdown 변종 구현 중에 하나네요. 많이 쓰이는지는 모르겠네요.
+    * http://en.wikipedia.org/wiki/MultiMarkdown
 
 References
 ----------
