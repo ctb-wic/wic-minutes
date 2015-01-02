@@ -18,3 +18,5 @@ Answer 2
 References
 ----------
 * [http://en.wikipedia.org/wiki/Markdown](http://en.wikipedia.org/wiki/Markdown)
+* [http://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4](http://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
+* [https://github.com/karlcow/markdown-testsuite](https://github.com/karlcow/markdown-testsuite)
