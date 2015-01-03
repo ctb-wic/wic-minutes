@@ -21,9 +21,15 @@ Questions
 
 References
 ----------
+### izeye
 * [http://en.wikipedia.org/wiki/Markdown](http://en.wikipedia.org/wiki/Markdown)
 * [http://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4](http://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
 * [https://github.com/karlcow/markdown-testsuite](https://github.com/karlcow/markdown-testsuite)
+* https://guides.github.com/features/mastering-markdown/
+* https://help.github.com/articles/markdown-basics/
+* https://help.github.com/articles/github-flavored-markdown/
+* https://help.github.com/articles/writing-on-github/
 
+### seoilhyun
 * [http://sergeswin.com/1013](http://sergeswin.com/1013)
 * [http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/](http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/)
