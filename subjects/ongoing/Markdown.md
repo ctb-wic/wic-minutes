@@ -12,6 +12,12 @@ Summary
 * 마치 글의 일부인 것처럼 함께 쭉 입력하며 글(쓰기)의 흐름을 이어나갈 수 있음
 * markdown web editor - [https://stackedit.io/editor](https://stackedit.io/editor)
 
+### JaeGyu
+* 마크다운(Markdown)은 일종의 마크업 언어로 텍스트에 태그를 이용해서 글자를 굵게하거나, 이미지를 삽입하거나 하는 일이 가능하다.
+* 문법이 너무 단순하다. HTML을 써야 하는 경우도 있다.
+* web editer http://dillinger.io/
+
+
 Questions
 ---------
 ### seoilhyun
@@ -34,3 +40,8 @@ References
 ### seoilhyun
 * [http://sergeswin.com/1013](http://sergeswin.com/1013)
 * [http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/](http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/)
+
+### JaeGyu
+* http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/
+* http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
+
