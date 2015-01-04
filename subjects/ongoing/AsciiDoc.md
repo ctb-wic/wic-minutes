@@ -22,3 +22,10 @@ References
 * https://spring.io/blog/2013/12/13/spring-s-getting-started-guides-migrated-to-asciidoctor
 * http://asciidoctor.org/docs/what-is-asciidoc/
 * https://github.com/spring-guides/getting-started-guides/wiki/Working-with-AsciiDoctor
+
+### maxmir
+* http://asciidoctor.org/docs/asciidoc-writers-guide/
+* http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+* http://asciidoctor.org/docs/what-is-asciidoc/#who-s-using-asciidoc
+* http://powerman.name/doc/asciidoc
+* http://asciidoctor.org/docs/what-is-asciidoc/
