@@ -17,7 +17,6 @@ Summary
 * 문법이 너무 단순하다. HTML을 써야 하는 경우도 있다.
 * web editer http://dillinger.io/
 
-
 Questions
 ---------
 ### seoilhyun
@@ -44,4 +43,3 @@ References
 ### JaeGyu
 * http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/
 * http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram
-
