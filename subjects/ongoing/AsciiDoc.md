@@ -29,3 +29,6 @@ References
 * http://asciidoctor.org/docs/what-is-asciidoc/#who-s-using-asciidoc
 * http://powerman.name/doc/asciidoc
 * http://asciidoctor.org/docs/what-is-asciidoc/
+* https://github.com/asciidoctor/asciidoctor-reveal.js
+* https://github.com/asciidoctor/asciidoctor-pdf
+* http://asciidoctor.org/docs/install-asciidoctor-macosx/
