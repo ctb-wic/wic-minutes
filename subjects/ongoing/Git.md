@@ -1,5 +1,5 @@
-Angular.js
-========
+Git
+===
 
 Summary
 -------
@@ -17,4 +17,4 @@ Answer 2
 
 References
 ----------
-* [https://angularjs.org/](https://angularjs.org/)
+* http://en.wikipedia.org/wiki/Git_(software)
