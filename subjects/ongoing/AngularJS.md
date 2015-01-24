@@ -19,7 +19,10 @@ Answer 2
 
 References
 ----------
-* [https://angularjs.org/](https://angularjs.org/)
+### izeye
+* https://angularjs.org/
+* http://ngmodules.org/
+* https://docs.angularjs.org/api
 
 ### seoilhyun
 
